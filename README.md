@@ -1,2 +1,1 @@
-# seo-
-SEO Prompt 
+act as seo manager 
